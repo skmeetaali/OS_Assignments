@@ -10,7 +10,7 @@ extern char **environ;
 int main() {
 
 
-  //      char * username = getlogin();
+          char * username = getlogin();
 //        char  * usr;
       //  &usr = strcat( "/home/", username );        
  //       printf("%s", usr);
